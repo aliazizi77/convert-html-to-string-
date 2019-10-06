@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\html to string\html to string\bin\Debug\html to string.exe
+C:\Users\asus\source\repos\html to string\html to string\bin\Debug\html to string.pdb
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html to string.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html_to_string.Form1.resources
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html_to_string.Properties.Resources.resources
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html to string.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html to string.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html to string.exe
+C:\Users\asus\source\repos\html to string\html to string\obj\Debug\html to string.pdb
